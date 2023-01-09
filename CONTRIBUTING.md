@@ -1,6 +1,6 @@
 # Contributing
 
-Hi Stackies! In order for you to add your resolution please **Add yourself** to the [list of stackies](Stackies.md) in **Alphabetical Order** along with your first pull request.
+Hi Stackies! In order for you to add your resolution please **Add yourself** to the [list of stackies](STACKIES.md) in **Alphabetical Order** along with your first pull request.
 
 This document lays out how to get you started in contributing, so please read carefully and throughly.
 
