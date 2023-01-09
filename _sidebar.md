@@ -4,7 +4,7 @@
   - [Welcome](/#Welcome)
 
 - Resolution
-  - [Resolution](Stackies.md)
+  - [Resolution](STACKIES.md)
 
 - Guide
 
