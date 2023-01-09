@@ -1,6 +1,6 @@
 # Welcome
 
-Hi! This is a project where Stackies will share their resolution for this year, 2022. This project is part of an event called ***Level up your skills with open source" in StackUp***. This event is intended to advocate open source to fellow stackies. 
+Hi! This is a project where Stackies will share their resolution for this year, 2022. This project is part of an event called ***Level up your skills with open source"*** in StackUp. This event is intended to advocate open source to fellow stackies. 
 
 ## How to Contribute?
 
