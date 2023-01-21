@@ -28,5 +28,5 @@ Hayo! I'm Abbey, and I'm currently a 2nd-year IT student. I am also currently a 
 Please ⭐️ this project in [GitHub](https://github.com/AbbeyIT/Stackie-2023-resolution) if this project is awesome!
 
 ## License
-[MIT License](https://github.com/AbbeyIT/Stackie-2023-resolution/blob/main/LICENSE)
+Stackie 2023 is open-source and licensed under the [MIT License](https://github.com/AbbeyIT/Stackie-2023-resolution/blob/main/LICENSE)
 <br>
