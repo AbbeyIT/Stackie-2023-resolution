@@ -17,6 +17,7 @@
 
 - My Socials
 
+  - [LinkFree](https://linkfree.eddiehub.io/AbbeyIT)
   - [Twitter](https://twitter.com/abbeywilltech)
   - [Hashnode](https://abbeywillblog.hashnode.dev/)
   - [GitHub](https://github.com/AbbeyIT)
