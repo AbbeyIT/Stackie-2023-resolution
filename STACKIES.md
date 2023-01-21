@@ -9,7 +9,7 @@
 | [Onlybond](https://github.com/onlybond) | To improve my managerial skills and my leadership skills with parallely learning about web2 frameworks and web3 concepts |
 | [Raviz](https://github.com/gorvyz)                   | To become a better developer and be healthy and fit       |
 | [Roy.](https://github.com/rywndr)                   | To understand more about programming and get a job in the programming field       |
-| [That_Boii](https://github.com/D-FOG) | To build my finances and coding skills
+| [That_Boii](https://github.com/D-FOG) | To build my finances and coding skills      |
 | [Tian](https://github.com/tianbuyung) | To become a open source developer and go on a diet  |
 
 | [Back To Top](#Stackies) |
