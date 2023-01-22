@@ -3,6 +3,7 @@
 | Name                                                 | Resolution                                                | 
 |------------------------------------------------------|-----------------------------------------------------------|
 | [Abbey](https://github.com/AbbeyIT)                  | To focus on my health more                                | 
+| [Brian](https://github.com/brianmikht)               | To live more independently by getting the right job       |
 | [Flov9](https://github.com/Flov9) | To find an internship and become better overall in what I do |
 | [itscurious](https://github.com/ShantanuK86)         | To explore more technologies and travel more              |
 | [Kodyvim](https://github.com/emmydev9)               | Be a better security researcher and live more happily     | 
