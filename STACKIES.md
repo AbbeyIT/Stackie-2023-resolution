@@ -13,5 +13,6 @@
 | [Roy.](https://github.com/rywndr)                   | To understand more about programming and get a job in the programming field       |
 | [Ryuint](https://github.com/Ryuint)                   | To make more money for family and happy living       |
 | [Tian](https://github.com/tianbuyung) | To become a open source developer and go on a diet  |
+| [TimmyKwesi](https://github.com/TimmyKwesi) | To do way better this year than I did last year 😤 |
 
 | [Back To Top](#Stackies) |
