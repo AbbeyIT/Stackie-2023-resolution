@@ -12,6 +12,7 @@
 | [Nakul](https://github.com/nakul010)                 | To learn a new skill and start writing blogs              | 
 | [Onlybond](https://github.com/onlybond) | To improve my managerial skills and my leadership skills with parallely learning about web2 frameworks and web3 concepts |
 | [Raviz](https://github.com/gorvyz)                   | To become a better developer and be healthy and fit       |
+| [Retr0.eth](https://github.com/Ayan-M-Dev)           | To get better as a developer, get an internship & gain weight and become healthy  |
 | [Roy.](https://github.com/rywndr)                   | To understand more about programming and get a job in the programming field       |
 | [Ryuint](https://github.com/Ryuint)                   | To make more money for family and happy living       |
 | [That_Boii](https://github.com/D-FOG) | To build my finances and coding skills      |
