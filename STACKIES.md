@@ -14,6 +14,7 @@
 | [Raviz](https://github.com/gorvyz)                   | To become a better developer and be healthy and fit       |
 | [Roy.](https://github.com/rywndr)                   | To understand more about programming and get a job in the programming field       |
 | [Ryuint](https://github.com/Ryuint)                   | To make more money for family and happy living       |
+| [That_Boii](https://github.com/D-FOG) | To build my finances and coding skills      |
 | [Tian](https://github.com/tianbuyung) | To become a open source developer and go on a diet  |
 | [TimmyKwesi](https://github.com/TimmyKwesi) | To do way better this year than I did last year 😤 |
 
