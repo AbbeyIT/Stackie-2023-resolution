@@ -6,6 +6,7 @@
 | [AugustHottie](https://github.com/AugustHottie) |  To be kinder to myself, grow mentally and emotionally! |
 | [Brayan1a1](https://github.com/brayanrodallega)      | To be more productive and learn more                      |
 | [Brian](https://github.com/brianmikht)               | To live more independently by getting the right job       |
+| [Complexlity](https://github.com/Complexlity)        | To become an overall better person                        |
 | [Flov9](https://github.com/Flov9) | To find an internship and become better overall in what I do |
 | [haykay](https://github.com/Haykay2020)	       | To become a better software developer and learn a job     |
 | [itscurious](https://github.com/ShantanuK86)         | To explore more technologies and travel more              |
